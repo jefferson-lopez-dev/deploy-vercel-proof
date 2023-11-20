@@ -10,7 +10,7 @@ const html = `<!DOCTYPE html>
   <title>Message</title>
 </head>
 <body>
-  <h1>Jefferson : What a temptation not to write 😥</h1
+  <h1>¿En español?</h1
 </body>
 </html>`;
 
